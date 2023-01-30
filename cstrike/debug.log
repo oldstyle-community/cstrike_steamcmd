@@ -1,0 +1,12 @@
+----------------------------------------------
+CRASH: Sun Jan 29 20:07:31 UTC 2023
+Start Line: ./hlds_linux -game cstrike -strictportbind -autoupdate -ip 54.37.155.20 +sv_lan 0 +map de_dust -maxplayers 32
+----------------------------------------------
+CRASH: Sun Jan 29 20:07:36 UTC 2023
+Start Line: ./hlds_linux -game cstrike -strictportbind -autoupdate -ip 54.37.155.20 +sv_lan 0 +map de_dust -maxplayers 32
+----------------------------------------------
+CRASH: Sun Jan 29 20:27:08 UTC 2023
+Start Line: ./hlds_linux -game cstrike -strictportbind -autoupdate -ip 54.37.155.20 +sv_lan 0 +map de_dust -maxplayers 32
+----------------------------------------------
+CRASH: Sun Jan 29 20:27:25 UTC 2023
+Start Line: ./hlds_linux -console -game cstrike +ip 54.37.155.20 +port 27015 +map de_dust2 +maxplayers 32
