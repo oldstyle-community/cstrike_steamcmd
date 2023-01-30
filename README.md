@@ -1,6 +1,8 @@
 ## About
-This resource is offered by OldStyle Community - https://olds.ro   
-Used on tutorial https://olds.ro/topic/14727-ubuntu-22041-english-tutorial-installation-counter-strike-16-server-hlds-and-rehlds-linux-2023/#comment-18814
+This resource is offered by OldStyle Community - https://olds.ro  
+
+Used on tutorial   
+https://olds.ro/topic/14727-ubuntu-22041-english-tutorial-installation-counter-strike-16-server-hlds-and-rehlds-linux-2023/#comment-18814
 
 ## Version
 Counter-Strike 1.6 Server Linux Archive (.tar.gz) clean &amp; untouched generated with SteamCMD (20:21 29.01.2023)
