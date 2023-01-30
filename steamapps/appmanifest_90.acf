@@ -3,24 +3,18 @@
 	"appid"		"90"
 	"Universe"		"1"
 	"name"		"Half-Life Dedicated Server"
-	"StateFlags"		"6"
+	"StateFlags"		"4"
 	"installdir"		"Half-Life"
-	"LastUpdated"		"1666697182"
-	"SizeOnDisk"		"92443098"
-	"StagingSize"		"0"
+	"LastUpdated"		"1599569899"
+	"UpdateResult"		"0"
+	"SizeOnDisk"		"83150380"
 	"buildid"		"5433925"
-	"LastOwner"		"76561200369118322"
-	"UpdateResult"		"24"
-	"BytesToDownload"		"0"
-	"BytesDownloaded"		"0"
-	"BytesToStage"		"0"
-	"BytesStaged"		"0"
-	"TargetBuildID"		"5433925"
+	"LastOwner"		"76561201050948905"
+	"BytesToDownload"		"398964256"
+	"BytesDownloaded"		"398964256"
 	"AutoUpdateBehavior"		"0"
 	"AllowOtherDownloadsWhileRunning"		"0"
-	"ScheduledAutoUpdate"		"1675024645"
-	"FullValidateBeforeNextUpdate"		"1"
-	"FullValidateAfterNextUpdate"		"1"
+	"ScheduledAutoUpdate"		"0"
 	"InstalledDepots"
 	{
 		"4"
@@ -30,8 +24,8 @@
 		}
 		"1006"
 		{
-			"manifest"		"4444585935428744334"
-			"size"		"66706004"
+			"manifest"		"4331255660962213342"
+			"size"		"57413286"
 		}
 	}
 	"SharedDepots"
@@ -39,14 +33,8 @@
 		"1"		"70"
 		"11"		"10"
 		"71"		"70"
-		"81"		"80"
 	}
 	"UserConfig"
 	{
-		"mod"		"czero"
-	}
-	"MountedConfig"
-	{
-		"mod"		"cstrike"
 	}
 }
